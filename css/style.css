@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
     grid-row: 1 / span 3;
 }
 
-/* Navigattion */
+/* Navigation */
 #main-nav {
     background: #fff;
     position: sticky;
